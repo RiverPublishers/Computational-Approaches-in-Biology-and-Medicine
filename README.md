@@ -14,12 +14,9 @@ https://www.riverpublishers.com/series.php?msg=Computational_Approaches_in_Biolo
 
 Each book chapter that includes programming examples is accompanied by a **fully executable Jupyter notebook**, designed to closely mirror the structure and content of the corresponding chapter.
 
-├── Chapter3_notebook.ipynb   # Sample Statistics and Hypothesis Testing
-
-├── Chapter4_notebook.ipynb   # Machine Learning Methods
-
-├── Chapter5_notebook.ipynb   # Integrated Example and Model Evaluation
-
+├── Chapter3_notebook.ipynb   # Sample Statistics and Hypothesis Testing<br>
+├── Chapter4_notebook.ipynb   # Machine Learning Methods<br>
+├── Chapter5_notebook.ipynb   # Integrated Example and Model Evaluation<br>
 └── README.md
 
 - Notebooks contain **only the code presented in the book**, with minimal additions required for execution (e.g., dataset loading).
